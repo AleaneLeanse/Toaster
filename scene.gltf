@@ -913,10 +913,10 @@
   ],
   "images": [
     {
-      "uri": "textures/lambert3_baseColor.png"
+      "uri": "lambert3_baseColor.png"
     },
     {
-      "uri": "textures/toasterMat_baseColor.png"
+      "uri": "toasterMat_baseColor.png"
     }
   ],
   "materials": [
